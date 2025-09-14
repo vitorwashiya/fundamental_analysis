@@ -206,3 +206,15 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 http_cache.sqlite
+
+# Project specific files
+*.db
+*.sqlite
+*.sqlite3
+data/
+logs/
+cache/
+temp/
+uploads/
+downloads/
+fundamental_analysis.db
